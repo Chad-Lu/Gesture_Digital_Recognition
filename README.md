@@ -1,1 +1,1 @@
-# Gesture_Digital_Recognition
+# Gesture Digital Recognition
